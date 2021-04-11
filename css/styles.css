@@ -622,46 +622,6 @@ section#footer .copyright {
         background-color: var(--dark);
     }
 
-    /* header nav #brand img {
-        width: 30%;
-        cursor: pointer;
-    }
-    
-    header nav #brand a {
-        font-size: 1.1rem;
-        color: var(--pure);
-        text-decoration: none;
-        transition: all .2s ease-in-out;
-    }
-    
-    header nav #brand a:hover {
-        color: var(--primary);
-    }
-    
-    header nav #left a {
-        text-decoration: none;
-        color: var(--pure);
-        font-size: .7rem;
-        transition: all .2s ease-in-out;
-        text-transform: uppercase;
-        margin-right: 1.5rem;
-    }
-    
-    header nav #left a:hover {
-        color: var(--primary);
-    }
-    
-    header nav #right a {
-        text-decoration: none;
-        color: var(--dark);
-        font-size: .7rem;
-        text-transform: uppercase;
-    }
-    
-    header nav #right a:hover {
-        color: var(--primary);
-    } */
-
     header .hero {
         margin-top: -3rem;
     }
